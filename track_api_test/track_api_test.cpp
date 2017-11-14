@@ -2,10 +2,15 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
+#include <opencv\cv.h>
 
+using namespace std;
+using namespace cv;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	cout << "Good!" << endl;
 	return 0;
 }
 
