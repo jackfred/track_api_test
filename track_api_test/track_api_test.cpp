@@ -10,7 +10,6 @@ using namespace cv;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	asdfasdfjkl;
 	cout << "Good!" << endl;
 	return 0;
 }
